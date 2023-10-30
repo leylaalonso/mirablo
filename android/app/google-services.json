@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "165066061137",
+    "firebase_url": "https://mirablo-98a18-default-rtdb.firebaseio.com",
+    "project_id": "mirablo-98a18",
+    "storage_bucket": "mirablo-98a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165066061137:android:a9ee892f2320172708cf70",
+        "android_client_info": {
+          "package_name": "com.mirablo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJoEJlxIR2G71BNqtsyrPTOLDgImNoV3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
